@@ -1,0 +1,6 @@
+This is a string
+36
+this is another string
+i am appending this file
+47
+i am appending this file again
